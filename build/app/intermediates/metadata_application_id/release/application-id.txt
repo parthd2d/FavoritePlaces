@@ -1,0 +1,1 @@
+com.example.favorite_places

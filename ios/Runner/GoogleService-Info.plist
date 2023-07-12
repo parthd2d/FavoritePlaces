@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>217328360375-4oljr0sifam3v56e0h3ags40pmirr2p0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.217328360375-4oljr0sifam3v56e0h3ags40pmirr2p0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA9uez1UQtuEU8BCdQos3y4QxyEnpOzNbU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>217328360375</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.favoritePlaces</string>
+	<key>PROJECT_ID</key>
+	<string>favorite-location-8ea47</string>
+	<key>STORAGE_BUCKET</key>
+	<string>favorite-location-8ea47.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:217328360375:ios:b5518a876bbae9e5892632</string>
+	<key>DATABASE_URL</key>
+	<string>https://favorite-location-8ea47-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
