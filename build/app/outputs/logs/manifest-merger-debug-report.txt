@@ -1,28 +1,28 @@
 -- Merging decision tree log ---
 application
-INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml:2:5-34:19
-MERGED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
-MERGED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
-MERGED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-18:19
-MERGED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-18:19
+INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml:2:5-34:19
+MERGED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-18:19
+MERGED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-18:19
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\2ced7dcf04ecfe827bad18c8cc14e0d0\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\2ced7dcf04ecfe827bad18c8cc14e0d0\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\8acf5b647edd96e39362d96a00760368\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\8acf5b647edd96e39362d96a00760368\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\80e1ac53f654626734ea06b97b26b98f\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\80e1ac53f654626734ea06b97b26b98f\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\parth\.gradle\caches\transforms-3\331e6e7573298c2620a3898b61646cf9\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\parth\.gradle\caches\transforms-3\331e6e7573298c2620a3898b61646cf9\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\parth\.gradle\caches\transforms-3\1f9d2647e5b12577ab1e4b8a1df37c20\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\parth\.gradle\caches\transforms-3\1f9d2647e5b12577ab1e4b8a1df37c20\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\parth\.gradle\caches\transforms-3\2f6f3f5e320d0d146dd031e854458ac1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\parth\.gradle\caches\transforms-3\2f6f3f5e320d0d146dd031e854458ac1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
-MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\a978aa4a6c9ada21a97a820b820f4bff\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\a978aa4a6c9ada21a97a820b820f4bff\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\parth\.gradle\caches\transforms-3\856725c711c4d6dadb020171b272d731\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
@@ -31,8 +31,8 @@ MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\part
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\9419681db41a7ffe6ce00dd0ae467888\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\parth\.gradle\caches\transforms-3\af20e7cd6b1badf1904ee00eac176264\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\parth\.gradle\caches\transforms-3\af20e7cd6b1badf1904ee00eac176264\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\parth\.gradle\caches\transforms-3\321ca2e338554032139b49f99a91f9bb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\parth\.gradle\caches\transforms-3\321ca2e338554032139b49f99a91f9bb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\parth\.gradle\caches\transforms-3\88f63c6d3673fe056ae6322b4626c71e\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
@@ -40,41 +40,41 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\parth\.gradle\cach
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\parth\.gradle\caches\transforms-3\8422d3f7d3b1de54c39ad0fdc56e9d67\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\parth\.gradle\caches\transforms-3\8422d3f7d3b1de54c39ad0fdc56e9d67\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
 	android:name
-		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml
 manifest
-ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
-MERGED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
-MERGED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [:google_maps_flutter_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:path_provider_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-20:12
+ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:google_maps_flutter_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\2ced7dcf04ecfe827bad18c8cc14e0d0\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:17:1-44:12
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\8acf5b647edd96e39362d96a00760368\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\80e1ac53f654626734ea06b97b26b98f\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\parth\.gradle\caches\transforms-3\331e6e7573298c2620a3898b61646cf9\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\parth\.gradle\caches\transforms-3\1f9d2647e5b12577ab1e4b8a1df37c20\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\parth\.gradle\caches\transforms-3\2f6f3f5e320d0d146dd031e854458ac1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
-MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:15:1-39:12
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\a978aa4a6c9ada21a97a820b820f4bff\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\parth\.gradle\caches\transforms-3\856725c711c4d6dadb020171b272d731\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\9419681db41a7ffe6ce00dd0ae467888\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\parth\.gradle\caches\transforms-3\e98e61190af8854aff1f5273ef9dcccd\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.7.0] C:\Users\parth\.gradle\caches\transforms-3\b87f255047581cc352478d8aad0eabe1\transformed\jetified-activity-1.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.7.2] C:\Users\parth\.gradle\caches\transforms-3\14330ad55ed1a953ae45bd5d947ec7a0\transformed\jetified-activity-1.7.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\parth\.gradle\caches\transforms-3\0738edd5f88f65e42d4602f987275a72\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\ff097a970bd496710ea1b9a46cf1acf2\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\cfd1d34e115ed5aac42f624a99d96d14\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\ba9ce3837c2750d52b25f399d5f68b67\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\4df5c142f1e34a4481352971d1ec60cd\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\parth\.gradle\caches\transforms-3\af20e7cd6b1badf1904ee00eac176264\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\f72d56cf34d2dd8c4829bb7120df2e7d\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\parth\.gradle\caches\transforms-3\a2b76ef4de76de56a69dd669698f3bd0\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\parth\.gradle\caches\transforms-3\27939aa5a2a1db2083e3215b4560d7c2\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\parth\.gradle\caches\transforms-3\3a18a958b73d4351be1bc235eae91f04\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
@@ -85,59 +85,60 @@ MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\parth\.gradle\
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\parth\.gradle\caches\transforms-3\321ca2e338554032139b49f99a91f9bb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\parth\.gradle\caches\transforms-3\88f63c6d3673fe056ae6322b4626c71e\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\e11c191d9da1e8364e1caf86bbeb078d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\710d9d13d7213dda81ce8f3eecf30c78\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\parth\.gradle\caches\transforms-3\8422d3f7d3b1de54c39ad0fdc56e9d67\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\parth\.gradle\caches\transforms-3\e5fa83fde10fb472b46797c7fc5f33c3\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\parth\.gradle\caches\transforms-3\f8b8fad42cbd76cbbe1d0e9161577cdc\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\parth\.gradle\caches\transforms-3\e352906830fefb0fbc5d214ffcedcfba\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 	package
-		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
-		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
-		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
-		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml
-MERGED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:google_maps_flutter_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:google_maps_flutter_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:path_provider_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:path_provider_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\2ced7dcf04ecfe827bad18c8cc14e0d0\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\2ced7dcf04ecfe827bad18c8cc14e0d0\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\8acf5b647edd96e39362d96a00760368\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\8acf5b647edd96e39362d96a00760368\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\80e1ac53f654626734ea06b97b26b98f\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\80e1ac53f654626734ea06b97b26b98f\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\parth\.gradle\caches\transforms-3\331e6e7573298c2620a3898b61646cf9\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\parth\.gradle\caches\transforms-3\331e6e7573298c2620a3898b61646cf9\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\parth\.gradle\caches\transforms-3\1f9d2647e5b12577ab1e4b8a1df37c20\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\parth\.gradle\caches\transforms-3\1f9d2647e5b12577ab1e4b8a1df37c20\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\parth\.gradle\caches\transforms-3\2f6f3f5e320d0d146dd031e854458ac1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\parth\.gradle\caches\transforms-3\2f6f3f5e320d0d146dd031e854458ac1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
-MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\a978aa4a6c9ada21a97a820b820f4bff\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\parth\.gradle\caches\transforms-3\a978aa4a6c9ada21a97a820b820f4bff\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\parth\.gradle\caches\transforms-3\856725c711c4d6dadb020171b272d731\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
@@ -146,12 +147,12 @@ MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\part
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\9419681db41a7ffe6ce00dd0ae467888\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\parth\.gradle\caches\transforms-3\e98e61190af8854aff1f5273ef9dcccd\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\parth\.gradle\caches\transforms-3\e98e61190af8854aff1f5273ef9dcccd\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.7.0] C:\Users\parth\.gradle\caches\transforms-3\b87f255047581cc352478d8aad0eabe1\transformed\jetified-activity-1.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.7.0] C:\Users\parth\.gradle\caches\transforms-3\b87f255047581cc352478d8aad0eabe1\transformed\jetified-activity-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] C:\Users\parth\.gradle\caches\transforms-3\14330ad55ed1a953ae45bd5d947ec7a0\transformed\jetified-activity-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] C:\Users\parth\.gradle\caches\transforms-3\14330ad55ed1a953ae45bd5d947ec7a0\transformed\jetified-activity-1.7.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\parth\.gradle\caches\transforms-3\0738edd5f88f65e42d4602f987275a72\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\parth\.gradle\caches\transforms-3\0738edd5f88f65e42d4602f987275a72\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\ff097a970bd496710ea1b9a46cf1acf2\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\ff097a970bd496710ea1b9a46cf1acf2\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\cfd1d34e115ed5aac42f624a99d96d14\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\cfd1d34e115ed5aac42f624a99d96d14\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\ba9ce3837c2750d52b25f399d5f68b67\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\ba9ce3837c2750d52b25f399d5f68b67\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\4df5c142f1e34a4481352971d1ec60cd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
@@ -160,8 +161,8 @@ MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\parth\.gradle\caches\
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\parth\.gradle\caches\transforms-3\af20e7cd6b1badf1904ee00eac176264\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\f72d56cf34d2dd8c4829bb7120df2e7d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\f72d56cf34d2dd8c4829bb7120df2e7d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\parth\.gradle\caches\transforms-3\a2b76ef4de76de56a69dd669698f3bd0\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\parth\.gradle\caches\transforms-3\a2b76ef4de76de56a69dd669698f3bd0\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\parth\.gradle\caches\transforms-3\27939aa5a2a1db2083e3215b4560d7c2\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
@@ -182,6 +183,8 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\parth\.gradle\cach
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\parth\.gradle\caches\transforms-3\88f63c6d3673fe056ae6322b4626c71e\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\e11c191d9da1e8364e1caf86bbeb078d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\e11c191d9da1e8364e1caf86bbeb078d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\710d9d13d7213dda81ce8f3eecf30c78\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\parth\.gradle\caches\transforms-3\710d9d13d7213dda81ce8f3eecf30c78\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\parth\.gradle\caches\transforms-3\8422d3f7d3b1de54c39ad0fdc56e9d67\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\parth\.gradle\caches\transforms-3\8422d3f7d3b1de54c39ad0fdc56e9d67\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\parth\.gradle\caches\transforms-3\e5fa83fde10fb472b46797c7fc5f33c3\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
@@ -190,88 +193,88 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\parth\.gradle\cache
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\parth\.gradle\caches\transforms-3\f8b8fad42cbd76cbbe1d0e9161577cdc\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\parth\.gradle\caches\transforms-3\e352906830fefb0fbc5d214ffcedcfba\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\parth\.gradle\caches\transforms-3\e352906830fefb0fbc5d214ffcedcfba\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
-INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\debug\AndroidManifest.xml:6:5-66
+ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\debug\AndroidManifest.xml:6:5-66
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\2ced7dcf04ecfe827bad18c8cc14e0d0\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\2ced7dcf04ecfe827bad18c8cc14e0d0\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\android\app\src\debug\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\android\app\src\debug\AndroidManifest.xml:6:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
-MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
+ADDED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:31:13-37
+		ADDED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:31:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:36:13-32
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:36:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+		ADDED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-126
+		ADDED from [:firebase_storage] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-126
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
-ADDED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+		ADDED from [:firebase_core] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
-ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
 	android:grantUriPermissions
-		ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+		ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
 	android:authorities
-		ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+		ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
 	android:exported
-		ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+		ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
 	android:name
-		ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
+		ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
 	android:resource
-		ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+		ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
 	android:name
-		ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+		ADDED from [:image_picker_android] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
+		ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
+ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-76
+		ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-76
 service#com.lyokone.location.FlutterLocationService
-ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-17:56
+ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-17:56
 	android:enabled
-		ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-35
+		ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-35
 	android:exported
-		ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+		ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
 	android:foregroundServiceType
-		ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-53
+		ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-53
 	android:name
-		ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\Flutter Modified Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-71
+		ADDED from [:location] C:\Users\parth\OneDrive\Documents\Flutter_Projects\favorite_places\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-71
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\2ced7dcf04ecfe827bad18c8cc14e0d0\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:25:5-79
-MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:25:5-79
 	android:name
 		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\2ced7dcf04ecfe827bad18c8cc14e0d0\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
 uses-feature#0x00020000
@@ -293,11 +296,11 @@ ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\parth\.gr
 	android:name
 		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\2ced7dcf04ecfe827bad18c8cc14e0d0\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
 meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
-ADDED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:32:13-34:85
+ADDED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:32:13-34:85
 	android:value
-		ADDED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:34:17-82
+		ADDED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-storage:20.2.0] C:\Users\parth\.gradle\caches\transforms-3\656381ba5e6d318ae005eb11cef90ce1\transformed\jetified-firebase-storage-20.2.0\AndroidManifest.xml:33:17-107
+		ADDED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\parth\.gradle\caches\transforms-3\9ae8e31175387530cb3d7c85f1c612b5\transformed\jetified-firebase-storage-20.2.1\AndroidManifest.xml:33:17-107
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\parth\.gradle\caches\transforms-3\2f6f3f5e320d0d146dd031e854458ac1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
 	android:exported
@@ -307,17 +310,17 @@ ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\parth\.gr
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\parth\.gradle\caches\transforms-3\2f6f3f5e320d0d146dd031e854458ac1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:27:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:29:13-37
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:28:13-43
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\parth\.gradle\caches\transforms-3\6c05ddf7e1acf46114a15c3fa7f1870a\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\parth\.gradle\caches\transforms-3\8b6539c4af812b9441b043f32e8487ae\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:26:13-77
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\parth\.gradle\caches\transforms-3\9419681db41a7ffe6ce00dd0ae467888\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
 	android:value
@@ -337,25 +340,25 @@ ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\parth\.gradle\caches\t
 	android:name
 		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\parth\.gradle\caches\transforms-3\af20e7cd6b1badf1904ee00eac176264\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
 permission#com.example.favorite_places.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
 uses-permission#com.example.favorite_places.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Users\parth\.gradle\caches\transforms-3\c24fac0dfecda982b85e976506f3a444\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.10.1] C:\Users\parth\.gradle\caches\transforms-3\74ce1c2874f96f8b7a1ecf0398e5d8f0\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\parth\.gradle\caches\transforms-3\321ca2e338554032139b49f99a91f9bb\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\parth\.gradle\caches\transforms-3\88f63c6d3673fe056ae6322b4626c71e\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
