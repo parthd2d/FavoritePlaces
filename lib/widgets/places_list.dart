@@ -5,7 +5,7 @@ import 'package:transparent_image/transparent_image.dart';
 import 'package:favorite_places/models/place.dart';
 import 'package:favorite_places/screen/place_details.dart';
 import 'package:favorite_places/providers/user_places.dart';
-
+ 
 class PlacesList extends ConsumerWidget {
   const PlacesList({
     super.key,

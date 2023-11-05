@@ -82,18 +82,31 @@ class _ImageInputState extends State<ImageInput> {
     }
     return Column(
       children: [
-        Container(
-          decoration: BoxDecoration(
-            border: Border.all(
-              width: 1,
-              color: Theme.of(context).colorScheme.primary.withOpacity(0.2),
+        Stack(children: [
+          Container(
+            decoration: BoxDecoration(
+              border: Border.all(
+                width: 1,
+                color: Theme.of(context).colorScheme.primary.withOpacity(0.2),
+              ),
             ),
+            height: 250,
+            width: double.infinity,
+            alignment: Alignment.center,
+            child: content,
           ),
-          height: 250,
-          width: double.infinity,
-          alignment: Alignment.center,
-          child: content,
-        ),
+          if (_selectedImage != null)
+            Positioned(
+              child: IconButton(
+                icon: const Icon(Icons.cancel),
+                onPressed: () {
+                  setState(() {
+                    _selectedImage = null;
+                  });
+                },
+              ),
+            ),
+        ]),
         if (_selectedImage != null) button,
       ],
     );

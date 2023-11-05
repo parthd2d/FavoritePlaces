@@ -23,7 +23,7 @@ class UserPlacesNotifier extends StateNotifier<List<Place>> {
       (key, value) {
         loadedPlaces.add(
           Place(
-            imageId:value['image_id'],
+            imageId: value['image_id'],
             id: key,
             title: value['title'],
             imageUrl: value['image'],
@@ -45,7 +45,7 @@ class UserPlacesNotifier extends StateNotifier<List<Place>> {
     state = loadedPlaces;
   }
 
-  void addPlace(String title, File image, PlaceLocation location,
+  Future<void> addPlace(String title, File image, PlaceLocation location,
       String imageName) async {
     final storageRef = FirebaseStorage.instance
         .ref()
@@ -64,7 +64,7 @@ class UserPlacesNotifier extends StateNotifier<List<Place>> {
       body: json.encode({
         'title': title,
         'image': imageUrl,
-        'image_id':imageName,
+        'image_id': imageName,
         'lat': location.latitude,
         'lng': location.longitude,
         'address': location.address,
@@ -96,13 +96,18 @@ class UserPlacesNotifier extends StateNotifier<List<Place>> {
       },
     );
     state = state;
+
+    return;
   }
 
   Future<bool> removePlace(String id) async {
-    final placeToDelete=state.where((place) => place.id==id).toList()[0];
+    final placeToDelete = state.where((place) => place.id == id).toList()[0];
 
     final storageRef = FirebaseStorage.instance.ref();
-    await storageRef.child('places_images').child('${placeToDelete.imageId}.jpg').delete();
+    await storageRef
+        .child('places_images')
+        .child('${placeToDelete.imageId}.jpg')
+        .delete();
 
     final url = Uri.https('favorite-location-8ea47-default-rtdb.firebaseio.com',
         'user_places/$id.json');

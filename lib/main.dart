@@ -4,7 +4,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 import 'package:flutter/material.dart';
 
-import 'package:favorite_places/screen/places.dart';
+import 'package:favorite_places/screen/tabs.dart';
 
 final colorScheme = ColorScheme.fromSeed(
   brightness: Brightness.dark,
@@ -17,13 +17,13 @@ final theme = ThemeData().copyWith(
   scaffoldBackgroundColor: colorScheme.background,
   colorScheme: colorScheme,
   textTheme: GoogleFonts.merriweatherTextTheme().copyWith(
-    titleSmall: GoogleFonts.ubuntuCondensed(
+    titleSmall: GoogleFonts.merriweather(
       fontWeight: FontWeight.bold,
     ),
-    titleMedium: GoogleFonts.ubuntuCondensed(
+    titleMedium: GoogleFonts.merriweather(
       fontWeight: FontWeight.bold,
     ),
-    titleLarge: GoogleFonts.ubuntuCondensed(
+    titleLarge: GoogleFonts.merriweather(
       fontWeight: FontWeight.bold,
     ),
   ),
@@ -35,7 +35,7 @@ void main() async {
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
-  
+
   runApp(
     const ProviderScope(
       child: MyApp(),
@@ -52,7 +52,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Great Places',
       theme: theme,
-      home: const PlacesScreen(),
+      home: const TabsScreen(),
     );
   }
 }

@@ -19,37 +19,60 @@ class AddPlaceScreen extends ConsumerStatefulWidget {
 }
 
 class _AddPlaceScreenState extends ConsumerState<AddPlaceScreen> {
-  final _titleController = TextEditingController();
+  final _formKey = GlobalKey<FormState>();
+
   File? _selectedImage;
   PlaceLocation? _selectedLocation;
   String? _locationTitle;
 
-  void _savePlace() {
-    final enteredTitle = _titleController.text;
-    if (enteredTitle.isEmpty ||
+  bool _isSaving = false;
+
+  void _savePlace() async {
+    if (!_formKey.currentState!.validate() ||
         _selectedImage == null ||
         _selectedLocation == null) {
       ScaffoldMessenger.of(context).clearSnackBars();
 
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
-          duration: Duration(seconds: 3),
-          content: Text('Enter details properly.'),
+          duration: Duration(seconds: 2),
+          content: Text('Add Location and/or Image'),
         ),
       );
       return;
     }
-    _locationTitle = enteredTitle;
-    ref
-        .read(userPlacesProvider.notifier)
-        .addPlace(enteredTitle, _selectedImage!, _selectedLocation!, uuid.v4());
+
+    _formKey.currentState!.save();
+
+    setState(() {
+      _isSaving = true;
+    });
+
+    await ref.read(userPlacesProvider.notifier).addPlace(
+        _locationTitle!, _selectedImage!, _selectedLocation!, uuid.v4());
+
+    if (!context.mounted) {
+      return;
+    }
+
     Navigator.of(context).pop();
+
+    ScaffoldMessenger.of(context).clearSnackBars();
+
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        duration: const Duration(seconds: 2),
+        content: Text('$_locationTitle Added.'),
+      ),
+    );
+
+    return;
   }
 
-  @override
-  void dispose() {
-    _titleController.dispose();
-    super.dispose();
+  void _onReset() {
+    _formKey.currentState!.reset();
+
+    return;
   }
 
   @override
@@ -57,59 +80,66 @@ class _AddPlaceScreenState extends ConsumerState<AddPlaceScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Add New Place',
+          'Add Place',
         ),
       ),
-      body: SingleChildScrollView(
-        padding: const EdgeInsets.all(12),
-        child: Column(
-          children: [
-            TextField(
-              decoration: const InputDecoration(
-                labelText: 'Title',
+      body: Form(
+        key: _formKey,
+        child: SingleChildScrollView(
+          padding: const EdgeInsets.all(12),
+          child: Column(
+            children: [
+              TextFormField(
+                decoration: const InputDecoration(
+                  labelText: 'Title',
+                ),
+                style: TextStyle(
+                  color: Theme.of(context).colorScheme.onBackground,
+                ),
+                validator: (value) {
+                  if (value == null ||
+                      value.isEmpty ||
+                      value.trim().length <= 1 ||
+                      value.trim().length > 20) {
+                    return 'Must be between 1 and 20 characters long';
+                  }
+                  return null;
+                },
+                onSaved: (value) {
+                  _locationTitle = value!;
+                },
               ),
-              style: TextStyle(
-                color: Theme.of(context).colorScheme.onBackground,
+              const SizedBox(
+                height: 16,
               ),
-              controller: _titleController,
-            ),
-            const SizedBox(
-              height: 16,
-            ),
-            ImageInput(
-              onPickImage: (image) => _selectedImage = image,
-            ),
-            const SizedBox(
-              height: 16,
-            ),
-            LocationInput(
-              onSelectLocation: (location) {
-                _selectedLocation = location;
-              },
-            ),
-            const SizedBox(
-              height: 16,
-            ),
-            ElevatedButton.icon(
-              onPressed: () {
-                _savePlace();
-                ScaffoldMessenger.of(context).clearSnackBars();
-
-                ScaffoldMessenger.of(context).showSnackBar(
-                  SnackBar(
-                    duration: const Duration(seconds: 3),
-                    content: Text('$_locationTitle Added.'),
-                  ),
-                );
-              },
-              label: const Text(
-                'Add Place',
+              ImageInput(
+                onPickImage: (image) => _selectedImage = image,
               ),
-              icon: const Icon(
-                Icons.add,
+              const SizedBox(
+                height: 16,
               ),
-            ),
-          ],
+              LocationInput(
+                onSelectLocation: (location) {
+                  _selectedLocation = location;
+                },
+              ),
+              const SizedBox(
+                height: 16,
+              ),
+              ElevatedButton(
+                onPressed: () {
+                  _savePlace();
+                },
+                child: _isSaving
+                    ? const SizedBox(
+                        height: 16,
+                        width: 16,
+                        child: CircularProgressIndicator(),
+                      )
+                    : const Text('Add Item'),
+              ),
+            ],
+          ),
         ),
       ),
     );

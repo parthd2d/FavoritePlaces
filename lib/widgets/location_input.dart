@@ -15,7 +15,7 @@ class LocationInput extends StatefulWidget {
   });
 
   final void Function(PlaceLocation location) onSelectLocation;
- 
+
   @override
   State<LocationInput> createState() {
     return _LocationInputState();
@@ -37,7 +37,7 @@ class _LocationInputState extends State<LocationInput> {
 
   void _getCurrentLocation() async {
     Location location = Location();
- 
+
     bool serviceEnabled;
     PermissionStatus permissionGranted;
     LocationData locationData;
@@ -134,18 +134,31 @@ class _LocationInputState extends State<LocationInput> {
 
     return Column(
       children: [
-        Container(
-          alignment: Alignment.center,
-          height: 170,
-          width: double.infinity,
-          decoration: BoxDecoration(
-            border: Border.all(
-              width: 1,
-              color: Theme.of(context).colorScheme.primary.withOpacity(0.2),
+        Stack(children: [
+          Container(
+            alignment: Alignment.center,
+            height: 170,
+            width: double.infinity,
+            decoration: BoxDecoration(
+              border: Border.all(
+                width: 1,
+                color: Theme.of(context).colorScheme.primary.withOpacity(0.2),
+              ),
             ),
+            child: previewContent,
           ),
-          child: previewContent,
-        ),
+          if (_pickedLocation != null)
+            Positioned(
+              child: IconButton(
+                icon: const Icon(Icons.cancel),
+                onPressed: () {
+                  setState(() {
+                    _pickedLocation = null;
+                  });
+                },
+              ),
+            ),
+        ]),
         Row(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
